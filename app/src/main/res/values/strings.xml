@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">LaMevaSalut</string>
+    <string name="logo">Logotip de l\'institut</string>
+    <string name="login_user">Entra el teu Usuari</string>
+    <string name="login_password">i la teva cantrasenya</string>
+    <string name="login_register">Vull registrar-me</string>
+    <string name="login_send">Envia</string>
+    <string name="login_title">La Meva Salut</string>
+    <string name="main_items_fixats">items fixats</string>
+    <string name="menu_edita">edita</string>
+    <string name="menu_pes">Pes</string>
+    <string name="menu_resum">Resum</string>
+    <string name="menu_perfil">La menva imatge de perfil</string>
+    <string name="menu_item">Representació gràfica de l\'item</string>
+    <string name="menu_distancia">Distància caminat o correns</string>
+</resources>
