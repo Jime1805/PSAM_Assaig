@@ -1,11 +1,11 @@
 package com.example.lamevasalut
 
 /*
-PREGUNTA 01
+PREGUNTA 01                             ---> Hecho
 Defineix i activa una barra de desplaçament (ScrollBar) a l'aplicació LaMevaSalud.
 Fes que sigui vissible
 
-PREGUNTA 02                             ---> Creo que hecho
+PREGUNTA 02                             ---> Hecho
 L'aplicació comença per la pantalla activity_main, però vull que abans de mostrar
 aquesta pantalla es mostri la pantalla de login (login_activity). Modifica el que
 consideris convenient.
