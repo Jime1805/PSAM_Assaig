@@ -5,7 +5,7 @@ PREGUNTA 01
 Defineix i activa una barra de desplaçament (ScrollBar) a l'aplicació LaMevaSalud.
 Fes que sigui vissible
 
-PREGUNTA 02
+PREGUNTA 02                             ---> Creo que hecho
 L'aplicació comença per la pantalla activity_main, però vull que abans de mostrar
 aquesta pantalla es mostri la pantalla de login (login_activity). Modifica el que
 consideris convenient.
